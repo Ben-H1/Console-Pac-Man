@@ -1,0 +1,14 @@
+C:\Users\Ben\Documents\Visual Studio 2017\Projects\ConsoleTest\ConsoleTest\bin\Debug\ConsoleTest.exe.config
+C:\Users\Ben\Documents\Visual Studio 2017\Projects\ConsoleTest\ConsoleTest\bin\Debug\ConsoleTest.exe
+C:\Users\Ben\Documents\Visual Studio 2017\Projects\ConsoleTest\ConsoleTest\bin\Debug\ConsoleTest.pdb
+C:\Users\Ben\Documents\Visual Studio 2017\Projects\ConsoleTest\ConsoleTest\bin\Debug\ConsoleTest.xml
+C:\Users\Ben\Documents\Visual Studio 2017\Projects\ConsoleTest\ConsoleTest\obj\Debug\ConsoleTest.vbprojResolveAssemblyReference.cache
+C:\Users\Ben\Documents\Visual Studio 2017\Projects\ConsoleTest\ConsoleTest\obj\Debug\ConsoleTest.Resources.resources
+C:\Users\Ben\Documents\Visual Studio 2017\Projects\ConsoleTest\ConsoleTest\obj\Debug\ConsoleTest.vbproj.GenerateResource.Cache
+C:\Users\Ben\Documents\Visual Studio 2017\Projects\ConsoleTest\ConsoleTest\obj\Debug\ConsoleTest.vbproj.CoreCompileInputs.cache
+C:\Users\Ben\Documents\Visual Studio 2017\Projects\ConsoleTest\ConsoleTest\obj\Debug\ConsoleTest.exe
+C:\Users\Ben\Documents\Visual Studio 2017\Projects\ConsoleTest\ConsoleTest\obj\Debug\ConsoleTest.xml
+C:\Users\Ben\Documents\Visual Studio 2017\Projects\ConsoleTest\ConsoleTest\obj\Debug\ConsoleTest.pdb
+D:\Documents\Visual Studio 2017\Projects\ConsoleTest\ConsoleTest\obj\Debug\ConsoleTest.exe
+D:\Documents\Visual Studio 2017\Projects\ConsoleTest\ConsoleTest\obj\Debug\ConsoleTest.xml
+D:\Documents\Visual Studio 2017\Projects\ConsoleTest\ConsoleTest\obj\Debug\ConsoleTest.pdb
